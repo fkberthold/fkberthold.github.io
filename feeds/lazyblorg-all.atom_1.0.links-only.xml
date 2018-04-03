@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xml:lang="en-us">
+  <link rel="self" href="http://fkberthold.github.io/feeds/lazyblorg-all.atom_1.0.links-only.xml" />
+  <title type="text">Logical Nonsense</title>
+  <id>http://fkberthold.github.io/</id>
+  <link href="http://fkberthold.github.io" />
+  <icon>/favicon.ico</icon>
+  <updated>2018-04-03T15:53:10+05:00</updated>
+  <author>
+    <name>Frank Berthold</name>
+  </author>
+  <subtitle type="text">Logical Nonsense</subtitle>
+  <rights>All content written by Frank Berthold</rights>
+  <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: About</title>
+    <link href='http://fkberthold.github.io/about' />
+    <published>2018-04-03T14:57:00+05:00</published>
+    <updated>2018-04-03T14:57:00+05:00</updated>
+    <category scheme='http://fkberthold.github.io/tags/lazyblorg' term='lazyblorg' />
+    <id>http://fkberthold.github.io/about-from-feed-with-links</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">First Post</title>
+    <link href='http://fkberthold.github.io/2018/04/03/20180403-first-post' />
+    <published>2018-04-03T11:46:00+05:00</published>
+    <updated>2018-04-03T11:46:00+05:00</updated>
+    <id>http://fkberthold.github.io/2018/04/03/20180403-first-post-from-feed-with-links</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: How to Use This Blog Efficiently</title>
+    <link href='http://fkberthold.github.io/how-to-use-public-voit' />
+    <published>2017-01-03T12:07:00+05:00</published>
+    <updated>2017-01-03T12:07:00+05:00</updated>
+    <id>http://fkberthold.github.io/how-to-use-public-voit-from-feed-with-links</id>
+</entry></feed>

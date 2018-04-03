@@ -1,0 +1,18 @@
+CLOSED: [2018-04-03 Tue 15:30]
+:PROPERTIES:
+:ID: empty-autotag-page
+:CREATED:  [2018-04-03 Tue 15:30]
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2018-04-03 Tue 15:30]
+:END:
+
+** English
+
+This is a placeholder blog article which is used for autotag pages.
+
+As long as lazyblorg does not support tag pages for autotags, every
+autotag links to here.
+
+Autotags are tags like 'language:english' or 'size:small' and so on.
+
