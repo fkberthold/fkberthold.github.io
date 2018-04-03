@@ -1,0 +1,11 @@
+** DONE First Post                                                     :blog:
+CLOSED: [2018-04-03 Tue 11:46]
+:LOGBOOK:
+- State "DONE"    from ""  [2018-04-03 Tue 11:46]
+:END:
+:PROPERTIES:
+:CREATED: [2018-04-03 Tue 11:40]
+:ID:       20180403-first-post
+:END:
+This is a first post in this blog using lazyblorg.
+
