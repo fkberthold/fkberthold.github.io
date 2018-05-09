@@ -3,15 +3,15 @@
       xmlns:thr="http://purl.org/syndication/thread/1.0"
       xml:lang="en-us">
   <link rel="self" href="http://fkberthold.github.io/feeds/lazyblorg-all.atom_1.0.links-only.xml" />
-  <title type="text">Logical Nonsense</title>
+  <title type="text">Rational Nonsense</title>
   <id>http://fkberthold.github.io/</id>
   <link href="http://fkberthold.github.io" />
   <icon>/favicon.ico</icon>
-  <updated>2018-04-03T15:53:10+05:00</updated>
+  <updated>2018-05-09T16:59:13+05:00</updated>
   <author>
     <name>Frank Berthold</name>
   </author>
-  <subtitle type="text">Logical Nonsense</subtitle>
+  <subtitle type="text">Rational Nonsense</subtitle>
   <rights>All content written by Frank Berthold</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
