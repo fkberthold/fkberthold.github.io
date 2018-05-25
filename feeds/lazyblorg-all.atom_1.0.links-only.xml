@@ -7,13 +7,22 @@
   <id>http://fkberthold.github.io/</id>
   <link href="http://fkberthold.github.io" />
   <icon>/favicon.ico</icon>
-  <updated>2018-05-25T14:19:57+05:00</updated>
+  <updated>2018-05-25T14:49:13+05:00</updated>
   <author>
     <name>Frank Berthold</name>
   </author>
   <subtitle type="text">Rational Nonsense</subtitle>
   <rights>All content written by Frank Berthold</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Tarot</title>
+    <link href='http://fkberthold.github.io/tarot' />
+    <published>2018-05-25T14:32:00+05:00</published>
+    <updated>2018-05-25T14:32:00+05:00</updated>
+    <category scheme='http://fkberthold.github.io/tags/tarot' term='tarot' />
+    <id>http://fkberthold.github.io/tarot-from-feed-with-links</id>
+</entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">About</title>
@@ -30,12 +39,4 @@
     <published>2018-04-03T11:46:00+05:00</published>
     <updated>2018-04-03T11:46:00+05:00</updated>
     <id>http://fkberthold.github.io/2018/04/03/20180403-first-post-from-feed-with-links</id>
-</entry>
-<!-- ############################################################################################# -->
-<entry>
-    <title type="text">Placeholder: How to Use This Blog Efficiently</title>
-    <link href='http://fkberthold.github.io/how-to-use-public-voit' />
-    <published>2017-01-03T12:07:00+05:00</published>
-    <updated>2017-01-03T12:07:00+05:00</updated>
-    <id>http://fkberthold.github.io/how-to-use-public-voit-from-feed-with-links</id>
 </entry></feed>
