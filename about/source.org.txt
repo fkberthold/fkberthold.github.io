@@ -11,10 +11,10 @@ CLOSED: [2018-04-03 Tue 14:57]
 :END:
 
 I'm a Test Automation Engineer and general creative person. I have an interest in:
-** Drawing
-** Telling stories
-** Tarot
-** Model Based Testing
-** Logic Programming
+  - Drawing
+  - Telling stories
+  - Tarot
+  - Model Based Testing
+  - Logic Programming
 
 Some of which I'll talk about, if only so I can remember what I was thinking.
