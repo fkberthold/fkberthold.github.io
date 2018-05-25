@@ -7,7 +7,7 @@
   <id>http://fkberthold.github.io/</id>
   <link href="http://fkberthold.github.io" />
   <icon>/favicon.ico</icon>
-  <updated>2018-05-25T13:57:40+05:00</updated>
+  <updated>2018-05-25T14:14:19+05:00</updated>
   <author>
     <name>Frank Berthold</name>
   </author>
@@ -16,7 +16,7 @@
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
 <entry>
-    <title type="text">Placeholder: About</title>
+    <title type="text">About</title>
     <link href='http://fkberthold.github.io/about' />
     <published>2018-04-03T14:57:00+05:00</published>
     <updated>2018-04-03T14:57:00+05:00</updated>
