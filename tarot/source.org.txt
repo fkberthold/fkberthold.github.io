@@ -1,0 +1,30 @@
+CLOSED: [2018-05-25 Fri 14:32]
+:PROPERTIES:
+:CREATED:  [2018-05-25 Fri 14:32]
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"        [2018-05-25 Fri 14:32]
+:END:
+:PROPERTIES:
+:CREATED: [2018-05-25 Fri 14:32]
+:ID: 2018-05-24-tarot
+:END:
+
+I collect Tarot decks because the art on them is interesting and I enjoy researching where it came from.
+
+*** My Tarot Decks
+- Waite-Smith (Rider-Waite)
+  - Artist: Pamela Colman Smith
+  - Design: A. E. Waite
+- The Marseilles Tarot
+- The Hermetic Tarot
+  - Artist/Design: Godfrey Dowson
+- Aleister Crowley Thoth Tarot
+  - Artist: Lady Frieda Harris
+  - Design: Aleister Crowley
+- Tarot in Wonderland
+  - Artist: Eugene Smith
+  - Design: Barbara Moore
+- The Wonderland Tarot
+  - Artist: Chris Abbey & Morgana Abbey
+
