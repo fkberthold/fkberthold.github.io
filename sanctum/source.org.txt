@@ -1,0 +1,244 @@
+CLOSED: [2018-11-07 Wed 10:57]
+:PROPERTIES:
+:CREATED:  [2018-11-07 Wed 10:57]
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"        [2018-11-07 Wed 10:57]
+:END:
+:PROPERTIES:
+:CREATED: [2018-11-07 Wed 10:57]
+:ID: 2018-11-07-sanctum
+:END:
+
+** Instructions
+
+*** Theme
+
+Each Adept forges a Sanctum in the Astral Plane, it is the center from which they draw their magic.  An Adept's power may be wrested from them if they are forced from their Sanctum, but to do so, you must risk your own.
+
+*** Why This Game Exists
+
+At its best a Tarot deck is an artist's attempt to represent all of human experience in 78 cards, at the very least it's an art gallery that you can carry around.  This game is meant to be a way to enjoy the beauty, and to a lesser extent the symbolism of Tarot cards. Take your time as you play this game, enjoy the beauty of the cards you're playing with, and have fun.
+
+*** How to Play Sanctum
+
+**** Components
+
+To play this game each player will need:
+
+- A token representing their Adept, this token can be any small object that will fit comfortably on a tarot card. eg. A figurine, a coin, a small stone.
+- A deck of Tarot cards
+
+***** Structure of the Tarot (for the purposes of this game)
+
+A Tarot deck is divided into the trump cards, or Major Arcana, and the suited cards, or Minor Arcana. Traditionally the suited cards are divided into 4 suits each of which has an alchemical element associated to it which are Wands (fire), Cups (water), Swords (air) and Pentacles (earth). Each of these suits contain 10 numbered cards (Ace - 10) and 4 face cards. The names on the face cards vary and aren't important for the purposes of this game all face cards are of equal value.
+
+For this game each of the suited cards has a value:
+
+| Rank | Value |
+|------+-------|
+| 2-10 |     1 |
+| Face |     2 |
+| Ace  |     3 |
+
+There are 22 trump cards numbered 0-21. There are a number of ways they can be divided in principle, for this game they are divided as follows:
+
+0-9: Are Solar cards. Conceptually these is positive, active, volatile, and waking forces.
+10 The Wheel of Fortune: Is a liminal card, neither Solar nor Lunar, it can have the aspect of either.
+11-20: Are Lunar cards. Conceptually these are negative, passive, fixed, and dreaming forces.
+21 The World: Like 10, is a liminal card.
+
+**** Setup
+
+The rules have been designed for a Waite-Smith style of deck, but can easily be adapted for any 78 card tarot deck.
+
+1. Shuffle the full deck and deal out a hand of 10 cards.
+2. From your hand, deal out 4 suited cards face down. These cards will form your Sanctum.
+3. Beneath each of your sanctum cards you may place a trump card, these will be your influence cards. When you place an influence card you immidiately pull another card from your deck.
+4. When both players have built their Sanctum, turn the 6 cards face up.
+5. Place your token in the card that is just right of center:  Eg:  🂠 🂠 * 🂠
+
+Variation: Sanctums can be of any size so long as both are the same size and even. A smaller Sanctum will make for a faster game, a larger Sanctum gives more room for strategy.
+
+**** The cycle of play
+
+1. Play a Trump Card as influence (Optional)
+2. Play Attack
+3. Resolve Attack
+4. Cleanup
+5. Draw and Discard
+
+***** Play Trump Card as influence (Optional)
+
+If a Sanctum card doesn't have a card below it already, then a Trump can be played there as an Influence card.
+
+Influence cards intreact with each other to generate elements in the following way:
+
+| Your Influence | Your Attack/Opponent's Influence | Element |
+|----------------+----------------------------------+---------|
+| Solar          | Solar                            | Air     |
+| Solar          | Lunar                            | Fire    |
+| Lunar          | Solar                            | Water   |
+| Lunar          | Lunar                            | Earth   |
+
+When you play an influence card, you can immidiately replenish by pulling a card from your deck.
+
+***** Play Attack
+
+Two different kinds of attack may be played:
+
+****** Suited attack
+
+A player may play a suited card to attack with the following effects:
+
+- Wands (Fire): Pushes your opponent away from you, or away from the middle of their Sanctum if you're both on the same spot.
+- Pentacles (Earth): Pulls you toward your opponent, or towrd the middle of your Sanctum if you're both on the same spot.
+- Swords (Air): Twists your opponent around the middle of the Sanctum.
+- Cups (Water): Reflects your opponent's attack back on them. If both players play Cups then nothing happens.
+
+****** Trump attack
+
+If the adept is on a position with an Influence card, the player may play a Trump card, which will combine with the influence card to produce an element.
+
+In the case of Liminal cards, the player may choose whether to treat them as Solar or Lunar.
+
+***** Resolve Attack
+
+Elements interactin in the following ways:
+
+- Matching (same elements)
+- Opposing: Water & Fire are in opposition. Air & Earth are in opposition.
+- Consumes:
+  - Fire Consumes Air
+  - Air Consumes Water
+  - Water Consumes Earth
+  - Earth Consumes Fire
+
+The player with the higher score wins the attack and their action occurs.
+
+****** Suited attack
+
+During an suited attack 4 factors determine the strength of the attack:
+- The value of the attacking card.
+- If the suit of the attacking card matches(+1) or opposes(-1) the ground element.
+- If the suit of the attacking card matches(+1) the current influence.
+- If the suit of the attacking card consumes(+1) the attacking suit of their opponent.
+
+****** Trump attack
+
+During a trump attack 4 factors determine the strength of the attack:
+- The value of the ground card.
+- If the suit generated by the combination of the players influence card(bottom line) and the played card(top line) matches(+1) or opposes(-1) the ground element.
+- If the generated suit matches(+1) the current influence.
+- If the generated suit consumes(+1) the attacking suit of their opponent.
+
+****** Draws
+
+If both players have the same score, then the attack continues. They keep playing attacks until either one does win, or they both run out of cards, at which point it's declared a draw and both draw up to 6 cards.
+
+***** Cleanup
+
+After the attack is resolved, the shape of your Sanctum may be changed.
+
+****** Suited Attack
+
+If the rank of the card you played as an attack is higher than the rank of the ground card in your Sanctum, then it replaces that card as ground.
+
+****** Trump Attack
+
+The Trump card played will always replace the current Influence card.
+
+*****  Draw and Discard
+
+Both players draw until they have 7 cards, then discard 1 card from their hand and play continues.
+
+**** Winning / Losing
+If either player is pushed off the edge of the edge of their Sanctum, they lose.
+
+**** Freewritten rules
+
+The goal of Sanctum is to push your opponent off of their Sanctum.
+
+Each player will deal themselves 12 cards, from those 12 cards they will play 6 suited cards that will compose their Sanctum. The remaining 6 will be their starting hand. If they want to play any trump cards as influences they may do so at any time preceding the first attack. If a trump card is played it may be immidiately replenished to bring the hand back up to six cards.
+
+There are two kinds of attack, a suited attack and a trump attack.
+
+During an suited attack 4 factors determine the strength of the attack:
+- The value of the attacking card.
+- If the suit of the attacking card matches(+1) or opposes(-1) the ground element.
+- If the suit of the attacking card matches(+1) the current influence.
+- If the suit of the attacking card consumes(+1) the attacking suit of their opponent.
+
+During a trump attack 4 factors determine the strength of the attack:
+- The value of the ground card.
+- If the suit generated by the combination of the players influence card(bottom line) and the played card(top line) matches(+1) or opposes(-1) the ground element.
+- If the generated suit matches(+1) the current influence.
+- If the generated suit consumes(+1) the attacking suit of their opponent.
+
+When the winner is resolved by which has the highest attack score then the action will be determined by the winner's suit:
+
+- Fire: Pushes the loser away from the winner by one space.
+- Air: Rotates the loser's position around the center of the board.
+- Water: Reflects the loser's attack, causing their element to apply as though it was what the winner attacked with.
+- Earth: Pulls the winner toward the loser by one space.
+
+Special cases:
+
+= Tie =
+If their is a tie then the play continues. If ground cards would be replaced by those they would have been used by they are. The players select another card from their hands and play those. They *do not* draw. If both players run out of cards in a tie, then it's considered a tie and they draw as normal and continue.
+
+= Players Are In the same location =
+If players are both in the same location, then 'pulling' toward and 'pushing' away doesn't make a lot of sense. Instead if a 'pull' succeeds then the player is moved uphill, away from the nearest end of their sanctum. If a 'push' succeeds, then the player is moved downhill, toward the nearest end of their sanctum.
+
+Once the attack is resolved, then each player draws enough cards to fill their hand to 7, then discards one hand from their hand.
+
+A suited card's value is determined as follows:
+- Ace: 3 Points
+- Face Card: 2 Points
+- 2-10 Card: 1 Point
+
+Before attack cards are played, players may play trump cards below their ground cards which will act as influence cards. When a trump card is played in this way it is immidiately replenished from the deck.
+
+
+*** Attacks
+
+Each suite in the Tarot deck represents one of the four elements:
+
+Wands = Fire
+Pentacles = Earth
+Swords = Air
+Cups = Water
+
+For our purposes each will by extension form one kind of attack:
+
+Wands (Fire): Pushing
+
+Explosively push outward. This attack will push your opponent away from you.
+
+Pentacles (Earth): Anchoring
+
+Anchor with Earth's strength into your opponent. With this pull yourself toward your opponent.
+
+Swords (Air): Twisting
+
+With with twist your opponent around. When this attack succeeds your opponent's position is rotated around the center of the board.
+
+Cups (Water): Reflecting
+
+The surface of water reflects what is brightest. Your attacker's force is
+*** Scoring Attacks
+
+Your attack score works as follows:
+
+If the location of your card has an element, and it's the same element, add 1, if it's an opposing element subtract 1.
+
+Each element has an element that it consumes and that consumes it:
+
+Fire Consumes Air
+Air Consumes Water
+Water Consumes Earth
+Earth Consumes Fire
+
+If your element consumes your opponent's, then add 1 to your attack
+
+

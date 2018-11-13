@@ -7,13 +7,23 @@
   <id>http://fkberthold.github.io/</id>
   <link href="http://fkberthold.github.io" />
   <icon>/favicon.ico</icon>
-  <updated>2018-09-11T16:53:12+05:00</updated>
+  <updated>2018-11-13T15:09:02+05:00</updated>
   <author>
     <name>Frank Berthold</name>
   </author>
   <subtitle type="text">Rational Nonsense</subtitle>
   <rights>All content written by Frank Berthold</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Sanctum Game</title>
+    <link href='http://fkberthold.github.io/sanctum' />
+    <published>2018-11-07T10:57:00+05:00</published>
+    <updated>2018-11-07T10:57:00+05:00</updated>
+    <category scheme='http://fkberthold.github.io/tags/tarot' term='tarot' />
+    <category scheme='http://fkberthold.github.io/tags/games' term='games' />
+    <id>http://fkberthold.github.io/sanctum-from-feed-with-links</id>
+</entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Tarot</title>
