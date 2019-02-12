@@ -22,11 +22,25 @@ I collect Tarot decks because the art on them is interesting and I enjoy researc
   - Comments: This deck has a bizarre, almost nightmarish quality to it.
 - The Hermetic Tarot
   - Artist/Design: Godfrey Dowson
+- [[http://www.aeclectic.net/tarot/cards/lo-scarabeo/][Lo Scarabeo]]
+  - Creators: Mark McElroy, Anna Lazzarini
+  - Comments: Trys to blend the two major lineages of Tarot, The Waite-Smith and The Crowley Thoth.
 - Londa Tarot
   - Artist/Designer: Londa Marks
 - Tarot in Wonderland
   - Artist: Eugene Smith
   - Design: Barbara Moore
+- The Tarot of Saqqara
+  - Artist/Designer: Donald G. Beaman
+- Tarot of White Cats
+  - Creator: Severino Baraldi
+- Viceversa Tarot
+  - Artist: Davide Corsi
+  - Design: Massimiliano Filadoro, Lunaea Weatherstone
+  - Comments: This is a neat deck that takes the idea of 'reversed cards' to it's extreme by making the cards double sided, one side being the light/front, the other being the dark/back of the image.
+- [[http://www.aeclectic.net/tarot/cards/visconti-sforza/][Visconti-Sforza Tarot]]
+  - Restored And Commented by: Stuart R. Kaplan
+  - Comments: This is a historical reproduction of one of the earliest known Tarot decks.
 - Waite-Smith (Rider-Waite)
   - Artist: Pamela Colman Smith
   - Design: A. E. Waite
@@ -34,15 +48,14 @@ I collect Tarot decks because the art on them is interesting and I enjoy researc
   - Artist/Designer: Chris Abbey & Morgana Abbey
 
 *** Tarot decks I admire but haven't gotten around to picking up
-- [[http://www.aeclectic.net/tarot/cards/ancient-marseilles/][Ancient Tarot of Marseilles]] is a reproduction that inspired the Waite-Smith deck.
-- [[https://www.etsy.com/listing/130158408/animalis-os-fortuna-complete-tarot-deck][Animal Os Fortuna]] Another animal deck. All Black & White, this uses a combination of animals and their bones to create feeling of macabre, without blood & gore
-- [[http://www.aeclectic.net/tarot/cards/book-of-thoth-etteilla/][Book of Thoth Etteilla Tarot]] is a reporduction of the Thoth decks, one of the first attempts at constructing an explicitly occult deck.
-- [[http://a.co/d/frUqIod][Cat's Eye Tarot]] Designed by a feline vetrinarian uses classic Waite-Smith suits and lightly interprets the symbols in a feline context
-- [[http://www.aeclectic.net/tarot/cards/english-magic-tarot/][English Magic Tarot]] has this fantastic, flat imagery that looks simple on the surface but has a dozen stories.
-- [[http://www.aeclectic.net/tarot/cards/international-icon/][International Icon Tarot]] This is the Waite-Smith tarot, stripped of all detail, attempting to leave only the symbols.
-- [[http://www.aeclectic.net/tarot/cards/lo-scarabeo/][Lo Scarabeo]] trys to blend the two major lineages of Tarot, The Waite-Smith and The Crowley Thoth.
-- [[http://a.co/d/5HJW7JV][Mystical Cats Tarot]] Gorgeous artwork, heavily interpreted Waite-Smith. Rather than putting cats in classic scenes, it instead imagines the feelings of the scenes and puts them in a feline context. Suits are Earth, Sky, Fire, Sea
-- [[Thelema Tarot]] has beautiful images that each seem to glow.
-- [[http://www.aeclectic.net/tarot/cards/visconti-sforza/][Visconti-Sforza Tarot]] is a historical reproduction of one of the earliest known Tarot decks.
-- [[http://a.co/d/6Vrf4ZM][The Wild Unknown Tarot]] Pen & ink style artwork, great use of shading.
++ [[http://www.aeclectic.net/tarot/cards/ancient-marseilles/][Ancient Tarot of Marseilles]] is a reproduction that inspired the Waite-Smith deck.
++ [[https://www.etsy.com/listing/130158408/animalis-os-fortuna-complete-tarot-deck][Animal Os Fortuna]] Another animal deck. All Black & White, this uses a combination of animals and their bones to create feeling of macabre, without blood & gore
++ [[http://www.aeclectic.net/tarot/cards/book-of-thoth-etteilla/][Book of Thoth Etteilla Tarot]] is a reporduction of the Thoth decks, one of the first attempts at constructing an explicitly occult deck.
++ [[http://a.co/d/frUqIod][Cat's Eye Tarot]] Designed by a feline vetrinarian uses classic Waite-Smith suits and lightly interprets the symbols in a feline context
++ [[http://www.aeclectic.net/tarot/cards/english-magic-tarot/][English Magic Tarot]] has this fantastic, flat imagery that looks simple on the surface but has a dozen stories.
++ [[http://www.aeclectic.net/tarot/cards/international-icon/][International Icon Tarot]] This is the Waite-Smith tarot, stripped of all detail, attempting to leave only the symbols.
++ [[http://www.aeclectic.net/tarot/cards/kingdom-within/][Kingdom Witin Tarot]] This tarot leans heavily on the astrological and quabalistic connections for it's art, with only light connections to the Waite-Smith.
++ [[http://a.co/d/5HJW7JV][Mystical Cats Tarot]] Gorgeous artwork, heavily interpreted Waite-Smith. Rather than putting cats in classic scenes, it instead imagines the feelings of the scenes and puts them in a feline context. Suits are Earth, Sky, Fire, Sea
++ [[Thelema Tarot]] has beautiful images that each seem to glow.
++ [[http://a.co/d/6Vrf4ZM][The Wild Unknown Tarot]] Pen & ink style artwork, great use of shading.
 
